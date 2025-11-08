@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PantsChicken
+  m_Controller: {fileID: 9100000, guid: 216ff2ea4da0f514a923a3ba74ca40b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 7a57e17ac84587845b81152c6061edc7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 20fd5940634ee8248aa996b01278dbac, type: 2}
+  - m_OriginalClip: {fileID: -3419257869308726280, guid: 72569114c0bcdfd44b7ceeab43004dee, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 07c665a30a76e4843b4087bcdf274825, type: 2}

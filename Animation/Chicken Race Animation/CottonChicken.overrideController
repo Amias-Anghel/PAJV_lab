@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CottonChicken
+  m_Controller: {fileID: 9100000, guid: 216ff2ea4da0f514a923a3ba74ca40b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: 7a57e17ac84587845b81152c6061edc7, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 65c2b230bc8afe34cac8dffb8a2ec82c, type: 2}
+  - m_OriginalClip: {fileID: -3419257869308726280, guid: 72569114c0bcdfd44b7ceeab43004dee, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 7c3733f22f47e174b9881a7f8204629a, type: 2}

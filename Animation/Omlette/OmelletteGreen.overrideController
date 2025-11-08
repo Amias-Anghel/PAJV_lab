@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OmelletteGreen
+  m_Controller: {fileID: 9100000, guid: 7e7eea2505f336c4494e0295b76d9621, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ebc13f15fff9b9c4a9c73ed5749d68f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bae67d2511ca8cd4891254819b5bbd4c, type: 2}
